@@ -1,0 +1,139 @@
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10c9c1b80>
+Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x10b72add0>, 44970.453840006)])', 'deque([(<aiohttp.client_proto.ResponseHandler object at 0x10d12a9e0>, 44972.525466133)])']
+connector: <aiohttp.connector.TCPConnector object at 0x10c6a8200>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x1069286b0>
+Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x106f76900>, 45323.535876579)])']
+connector: <aiohttp.connector.TCPConnector object at 0x106e446b0>
+HTTP Request: POST https://api.telegram.org/bot123456:ABC-DEF.../getMe "HTTP/1.1 401 Unauthorized"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10d8a4d70>
+Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x10d96e900>, 4903.854595228)])']
+connector: <aiohttp.connector.TCPConnector object at 0x10d195280>
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10dcf5e20>
+Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x10dcbde80>, 6643.82945668)])']
+connector: <aiohttp.connector.TCPConnector object at 0x10dcf5e80>
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x1135c9b80>
+Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x113585e80>, 7645.005709873)])']
+connector: <aiohttp.connector.TCPConnector object at 0x1135c9ee0>
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getMe "HTTP/1.1 200 OK"
+Application started
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/deleteWebhook "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.telegram.org/bot8972094279:AAESUaKpJzEjr-kqScw8DWrBOpQrmNPzQY8/getUpdates "HTTP/1.1 200 OK"
+Application is stopping. This might take a moment.
+Application.stop() complete
